@@ -8,4 +8,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameSelect.unity
+    guid: f1bdb535aca47734fb23dde48bf416ff
+  - enabled: 1
+    path: Assets/Scenes/LinkWords.unity
+    guid: 5a4aad170efe27c4e99c52266d839ffa
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 08b34a3e72cef0940839ee13341eca01
+  - enabled: 1
+    path: Assets/Scenes/Memory.unity
+    guid: 3233802b3f8364242b3e9a48167c9b39
+  - enabled: 1
+    path: Assets/Scenes/SelfEvaluation.unity
+    guid: ceabc433ffab6e6408118352c73a21d5
+  - enabled: 1
+    path: Assets/Scenes/SelfMassage.unity
+    guid: 7e2a23d531764af4d877c1bf6e421ada
   m_configObjects: {}
